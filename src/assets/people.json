@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Ryan",
+        "imageUri": "../assets/images/moose.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Breanne",
+        "imageUri": "../assets/images/star.jpg"
+    }
+]

@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Chrome debug",
+            "type": "pwa-chrome",
+            "request": "launch",
+            "url": "http://localhost:4200",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}

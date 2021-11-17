@@ -1,0 +1,6 @@
+<app-person-banner [person]=person class='left-column'></app-person-banner>
+<app-menu-bar class='right-column'></app-menu-bar>
+
+<div *ngFor="let category of categories">
+    <app-container-card [person]=person [category]=category class='left-column card'></app-container-card>
+</div>

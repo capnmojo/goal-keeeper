@@ -1,0 +1,6 @@
+<div class='left-column'>{{category.title}}</div>
+<app-menu-bar class='right-column'></app-menu-bar>
+
+<div *ngFor="let person of people">
+    <app-container-card [person]=person [category]=category class='left-column card'></app-container-card>
+</div>

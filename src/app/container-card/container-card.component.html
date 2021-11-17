@@ -1,0 +1,4 @@
+<div>{{category.title}}</div>
+<div *ngFor="let goal of goals">
+    <div (click)="openGoalCard(goal)">{{goal.summary}}</div>
+</div>

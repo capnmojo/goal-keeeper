@@ -1,0 +1,27 @@
+[
+    {
+        "personId": 1,
+        "categoryId": 1,
+        "summary": "Dunk"
+    },
+    {
+        "personId": 1,
+        "categoryId": 1,
+        "summary": "Bench 300"
+    },
+    {
+        "personId": 1,
+        "categoryId": 2,
+        "summary": "Be fluent in Mandarin"
+    },
+    {
+        "personId": 2,
+        "categoryId": 1,
+        "summary": "2 minute mile"
+    },
+    {
+        "personId": 2,
+        "categoryId": 2,
+        "summary": "Finish med school"
+    }
+]
